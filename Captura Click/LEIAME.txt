@@ -1,0 +1,2 @@
+O código foi adaptado do código exemplo disponibilizado em https://github.com/gmamaladze/globalmousekeyhook.
+As partes responsáveis pela captura do click estão contidas na Mian e na classe ScreenUtil

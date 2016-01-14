@@ -1,0 +1,3 @@
+O código foi adaptado do exemplo disponibilizado pela fabricante do The eye tribe em https://github.com/EyeTribe/tet-csharp-samples.
+As pastas calibration e e tetcontrolls não foram alteradas pois apenas configuram a aplicação. 
+Na parte scroll temos o código que gera a captura das fixações.
